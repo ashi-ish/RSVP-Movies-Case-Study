@@ -1,9 +1,35 @@
-RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
+# 🎬 **RSVP Movies SQL Case Study**  
 
- 
+## 📝 **Project Overview**  
+This case study focuses on **practicing SQL querying concepts** through an **end-to-end database analysis** of RSVP Movies. The goal is to **design, query, and analyze a relational database system** using MySQL. This hands-on project provides **real-world experience** in working with **OLAP vs OLTP systems, database design, joins, and set operations**.  
 
-The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
+## 🎯 **Objectives of the Case Study**  
+✔ Understand **database design & normalization** for a structured RDBMS  
+✔ Create **databases, tables, and relationships** in **MySQL Workbench**  
+✔ Perform **data querying** using **SQL commands**  
+✔ Implement **Joins, Set Operations, Aggregations, and Filtering**  
+✔ Gain hands-on experience in **SQL-based analysis of the movies dataset**  
 
- 
+## 📂 **Dataset & Resources**  
+The case study includes the following files:  
+📜 **SQL Case Study PDF** – Problem statement and queries to be solved  
+📜 **Attribute Description Spreadsheet** – Metadata & schema for database tables  
+📜 **MySQL Workbench File** – Contains database creation scripts, table structures, and sample data  
+📜 **Solution Document** – Step-by-step query solutions with explanations  
 
-You are a data analyst and an SQL expert. You have to use SQL to analyse the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script given below. You have to write the solution code below every question and submit the same SQL script file with the solution in the 'Submission' segment.
+## 🔍 **Key Concepts Covered**  
+
+### 🔹 **Database Design & Creation**  
+- Understanding **database normalization**  
+- Creating relational tables in **MySQL Workbench**  
+- Inserting & managing data efficiently  
+
+### 🔹 **SQL Querying & Operations**  
+- Writing **basic & advanced SQL queries**  
+- Filtering, sorting, and aggregating data using **WHERE, GROUP BY, HAVING, and ORDER BY**  
+- Using **Joins (INNER, LEFT, RIGHT, FULL) and Set Operations (UNION, INTERSECT, EXCEPT)**  
+
+### 🔹 **Analysis & Business Insights**  
+- Extracting key movie-related insights using **SQL queries**  
+- Understanding audience preferences & movie performance trends  
+- Analyzing data based on **countries, genres, revenue, and customer engagement**  
